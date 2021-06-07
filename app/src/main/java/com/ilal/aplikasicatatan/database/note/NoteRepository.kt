@@ -42,4 +42,3 @@ class NoteRepository(application: Application) {
         }
     }
 }
-
